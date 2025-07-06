@@ -67,5 +67,4 @@ def input(key):
         if key == 'right mouse down':
             boxes.remove(hit_info)
             destroy(hit_info)
-
 app.run()
