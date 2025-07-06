@@ -27,10 +27,7 @@ block_types = {
     'g': ('white_cube', color.gold),
 }
 
-
 selected_block_type = '1' # player starts with the grass block because the key '1' corresponds with the grass.png block: comment by Ariel
-
-
 
 boxes = []
 for i in range(25):
